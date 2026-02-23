@@ -1,19 +1,22 @@
- Movie Recommendation System
+🎬 Movie Recommendation System
 
-A simple content-based movie recommendation system built using Python.
-It recommends similar movies based on genres using TF-IDF Vectorization and Cosine Similarity, with fuzzy matching for incorrect movie names.
+A simple content-based movie recommendation system built with Python.
+This project suggests similar movies based on genres using TF-IDF Vectorization and Cosine Similarity.
+It also supports fuzzy matching, so small spelling mistakes won’t break the search.
 
- Features
+✨ Features
 
-Content-based recommendations
+Recommend similar movies instantly
 
-TF-IDF + Cosine Similarity
+TF-IDF + Cosine Similarity approach
 
-Fuzzy movie name matching
+Fuzzy matching for movie titles
 
-Runs in Jupyter Notebook
+Runs in Jupyter Notebook / Colab
 
- Tech Stack
+
+
+🛠 Tech Used
 
 Python
 
